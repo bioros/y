@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt update -y && apt install -y screen libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential git
+apt update -y && apt install -y screen libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential git mc htop
 
 screen
 
